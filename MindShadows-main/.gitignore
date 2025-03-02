@@ -1,0 +1,29 @@
+
+# Unreal Engine Git Ignore
+
+# Ignore user-specific settings
+Saved/
+Intermediate/
+DerivedDataCache/
+.vscode/
+*.suo
+*.user
+*.sdf
+*.sln
+*.opensdf
+*.log
+*.tmp
+*.bak
+*.pdb
+*.idb
+*.sqlite
+
+# Ignore compiled binaries
+Binaries/
+Build/
+
+# Ignore Unreal Engine auto-generated project files
+*.xcodeproj/
+*.xcworkspace/
+*.DS_Store
+
